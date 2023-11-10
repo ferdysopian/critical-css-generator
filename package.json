@@ -1,0 +1,14 @@
+{
+    "name": "criticalcss-generator",
+    "version": "1.0.0",
+    "description": "Generate critical css for a given url",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "criticalcss": "node index.js"
+    },
+    "devDependencies": {
+        "penthouse": "^2.3.3"
+    }
+}
